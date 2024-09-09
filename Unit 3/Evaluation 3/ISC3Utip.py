@@ -50,4 +50,5 @@ def main():
     print('Thank you for using Gary\'s tip calculator app!')
 
 # Runs the main program
-main()
+if __name__ == "__main__":
+    main()
